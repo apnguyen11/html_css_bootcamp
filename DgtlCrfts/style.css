@@ -1,0 +1,96 @@
+div {
+   
+    text-align: center;
+    
+    margin: auto;
+    font-family: sans-serif;
+    background-size: contain;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.background{
+    background-image: url(img/atl.png);
+    block-size: 550px;
+}
+
+.logo{
+    height: 90px;
+}
+
+.main {
+    padding-top:100px;
+    margin-bottom:50px;
+}
+
+.firstlist {
+    float: right;
+    display: inline;
+    list-style: none;
+    margin-right: 25px;
+    text-align: right;
+    padding-top: 30px;
+}
+
+.arrow {
+    padding-top: 141px;
+    
+}
+
+.middletext {
+    padding-top: 100px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.imagesmiddle {
+    padding-top: 40px;
+    display:flex;
+    justify-content: space-around;
+    margin: 0 4%;
+}
+
+.alltexts {
+    padding-left: 17px;
+    display:flex;
+    justify-content: space-around;
+    margin: 0 4%;
+    font-family: sans-serif;
+}
+
+.alltexts2 {
+    display:flex;
+    justify-content: space-around;
+    margin: 0 11%;
+    font-family: sans-serif;
+    padding-left: 10px;
+  
+}
+
+.middletext2 {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.lastblock{
+    background-color: #4e4e4e;
+    block-size:150px;
+}
+
+.lastlist {
+    float: center;
+    display: inline;
+    margin-right: 25px;
+    padding-top: 12px;
+    font-family: sans-serif;
+   
+}
+
+.DG {
+    padding-top:60px;
+}
+
+.lastpadding {
+    padding-top: 20px;
+}
